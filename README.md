@@ -56,6 +56,4 @@ The SQL queries provided in this repository highlight the following insights:
 │   ├── customer_loyalty.sql
 │   ├── return_analysis.sql
 │   └── shipping_costs.sql
-├── notebooks                # Jupyter notebooks for exploration and documentation
-│   └── sales_analysis.ipynb
 └── README.md                # Project overview and instructions
